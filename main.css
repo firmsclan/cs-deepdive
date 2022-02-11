@@ -29,3 +29,15 @@ body {
 /* h1 {
     font-family: sans-serif;
 } */
+
+
+.main-header{
+    background-color:#2ddf5c;
+    padding: 8px 16px;
+    width: 100%;
+}
+
+.main-nav__item{
+    display: inline-block;
+    padding-left: 70px;
+}
